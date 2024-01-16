@@ -1,0 +1,105 @@
+.ns{
+    display: grid;
+    place-items: center;
+    right: -50px;
+}
+
+
+.ns-con {
+   display: flex;
+   justify-content: space-around;
+
+}
+
+.ns-div {
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+    width: 474px;
+    height: 422px;
+    margin-top: 215px;
+}
+
+.ns-div-content {
+    margin-left: 40px;
+    margin-right: 41px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.ns-div-content p {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.ns-div-content p.f {
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 350px;
+    /* 162.5% */
+}
+
+.line1 {
+    background: rgba(19, 19, 24, 0.10);
+    width: 393px;
+    height: 1px;
+}
+
+.ns-div-content input {
+    border-radius: 8px;
+    width: 393px;
+    height: 52px;
+    background: rgba(19, 19, 24, 0.05);
+    border: none;
+    margin-top: 24px;
+    position: relative;
+}
+
+.ns-div-content input::placeholder {
+    position: absolute;
+    left: 20px;
+
+}
+
+.lolololkolo {
+    margin-top: -16px;
+}
+
+.ns-div-content button {
+    border-radius: 8px;
+    background: #FF5400;
+    width: 393px;
+    height: 52px;
+    border: none;
+    margin-top: 24px;
+}
+
+.ns-div-content button p {
+    color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: -0.5px;
+margin-top: 10px;
+}
+
+
+
+
+.ns-div-sm {
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+    width: 335px;
+    height: 426px;
+    margin-top: 24px;
+}

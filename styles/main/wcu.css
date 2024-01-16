@@ -1,0 +1,43 @@
+.wcu {
+    display: grid;
+    place-items: center;
+}
+
+.wcu-container {
+    display: grid;
+    place-items: center;
+}
+
+.wcu10 {
+    margin-right: 24px;
+}
+
+.wcu30 {
+    margin-top: 24px;
+}
+
+.wcu-t1-sm {
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.wcu-t2-sm {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 309px;
+    /* 171.429% */
+}
+
+.wcu-2-sm , .wcu-3-sm {
+    margin-top: 16px;
+}

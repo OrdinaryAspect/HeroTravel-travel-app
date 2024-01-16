@@ -1,0 +1,77 @@
+.ns-div-content-sm {
+    margin-left: 23px;
+    margin-right: 24px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.ns-div-content-sm p {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.ns-div-content-sm p.f {
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 270px;
+    /* 162.5% */
+}
+
+.ns-div-content-sm .line1 {
+    background: rgba(19, 19, 24, 0.10);
+    width: 288px;
+    height: 1px;
+}
+
+.ns-div-content-sm input {
+    border-radius: 8px;
+    width: 288px;
+    height: 52px;
+    background: rgba(19, 19, 24, 0.05);
+    border: none;
+    margin-top: 24px;
+    position: relative;
+}
+
+.ns-div-content-sm input::placeholder {
+    position: absolute;
+    left: 20px;
+
+}
+
+.lolololkolo {
+    margin-top: -16px;
+}
+
+.ns-div-content-sm button {
+    border-radius: 8px;
+    background: #FF5400;
+    width: 288px;
+    height: 52px;
+    border: none;
+    margin-top: 24px;
+}
+
+.ns-div-content-sm button p {
+    color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: -0.5px;
+margin-top: 10px;
+}
+
+.smth {
+    margin-top: 16px;
+}

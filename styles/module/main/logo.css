@@ -1,0 +1,28 @@
+.logo-img {
+    width: 56px;
+    height: 48px;
+    margin-top: 50px;
+}
+.logo-t1 {
+    margin-top: 52px;
+    margin-left: 16.63px;
+    margin-right: auto;
+}
+
+.logo-t1 {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.logo-t2 {
+    color: #FF5400;
+    font-family: Mulish;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}

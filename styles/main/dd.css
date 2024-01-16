@@ -1,0 +1,314 @@
+.dd {
+    margin-top: 120px;
+}
+
+
+.p-dd p.n {
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.p-dd p.m {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 643px;
+    /* 162.5% */
+}
+
+div.p-dd {
+    display: grid;
+    place-items: center;
+}
+
+.c1 {
+    position: relative;
+    display: inline-block;
+}
+
+.overlay1 {
+    position: absolute;
+    top: 23px;
+    left: 535px;
+    color: #fff;
+}
+
+.overlay2 {
+    position: absolute;
+    top: 23px;
+    left: 56px;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+
+
+
+.ifo {
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+    width: 579px;
+    height: 389px;
+}
+
+.dd-img {
+    display: block;
+    margin: auto;
+    width: 1170px;
+    height: 1548px;
+    margin-top: 48px;
+}
+
+.dd-img-1 {
+    margin-top: 24px;
+}
+
+.x p {
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.div1 {
+    width: 386px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.div5 {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 50px;
+}
+
+.div6 {
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    /* 162.5% */
+    width: 452px;
+    margin-left: 50px;
+}
+
+.div7 {
+    color: #FF5400;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 50px;
+}
+
+.div8 {
+    margin-left: 50px;
+
+}
+
+.div8 button {
+    border-radius: 8px;
+    background: #FF5400;
+    width: 150px;
+    height: 52px;
+    border: none;
+}
+
+.div8 button p {
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: -0.5px;
+    margin-top: 10px;
+}
+
+.div10 button {
+    border-radius: 8px;
+    background: #FF5400;
+    width: 210px;
+    height: 52px;
+    border: none
+}
+
+.div10 button p {
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: -0.5px;
+    margin-top: 10px;
+}
+
+.div10 {
+    display: grid;
+    place-items: center;
+    margin-top: 60px;
+}
+
+.ddt-sm {
+    display: grid;
+    place-items: center;
+}
+
+p1 {
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 24px;
+}
+
+p2 {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 309px;
+    margin-top: 16px;
+    /* 171.429% */
+}
+
+.dd-sm .lol {
+    width: 335px;
+    height: 500px;
+    border-radius: 16px;
+}
+
+.ms-lol {
+    display: grid;
+    place-items: center;
+}
+
+.dd-sm-img {
+    display: grid;
+    place-items: center;
+}
+
+.ifo-sm {
+    width: 297px;
+    height: 303px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+}
+
+.overlay-sm {
+    position: absolute;
+    top: 165px;
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+    padding-bottom: 20px;
+    margin-bottom: 16px;
+    color: #fff;
+}
+
+
+.f2 {
+    width: 218px;
+}
+
+.l1 {
+    margin-left: 25px;
+
+}
+
+.lf1 {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.lf2 {
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 254px;
+    /* 171.429% */
+}
+
+.lf3 {
+    color: #FF5400;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.l1 button {
+    width: 130px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FF5400;
+    border: none;
+}
+
+.l1 button p {
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -0.5px;
+    margin-top: 10px;
+}
+
+.dd-sm-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dd-sm1 {
+    display: grid;
+    place-items: center;
+}
+
+.no{
+    margin-top: 16px;
+}
